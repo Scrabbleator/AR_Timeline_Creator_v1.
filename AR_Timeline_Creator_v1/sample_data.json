@@ -1,0 +1,56 @@
+[
+  {
+    "id": "seed-1",
+    "title": "Foxy enters Civic District",
+    "date_text": "Spring 1842",
+    "start_date": "1842-03",
+    "end_date": "",
+    "era": "Overmorrow Era I",
+    "story": "Overmorrow",
+    "characters": [
+      "Foxy"
+    ],
+    "categories": [
+      "Personal",
+      "Travel"
+    ],
+    "notes": "First sight of brass railings and whitewashed fa\u00e7ades; carriage passes over the cobbles.",
+    "sort_index": 10
+  },
+  {
+    "id": "seed-2",
+    "title": "Sepia Phenomenon intensifies near Leeks Hill",
+    "date_text": "Year 12 \u2014 Sepia Age",
+    "start_date": "",
+    "end_date": "",
+    "era": "Overmorrow Era I",
+    "story": "Overmorrow",
+    "characters": [
+      "De Rippe"
+    ],
+    "categories": [
+      "Mystical",
+      "Historical"
+    ],
+    "notes": "A local account describes morning fog thickening and dimming bridge lights.",
+    "sort_index": 20
+  },
+  {
+    "id": "seed-3",
+    "title": "Vontharian envoy arrives in Arkellion",
+    "date_text": "Midwinter",
+    "start_date": "102-12-01",
+    "end_date": "102-12-20",
+    "era": "Realm Tensions",
+    "story": "Stelo Vienas",
+    "characters": [
+      "K\u2019har-eli",
+      "Envoy"
+    ],
+    "categories": [
+      "Political"
+    ],
+    "notes": "Talks stall; right-palm-to-deltoid oath observed.",
+    "sort_index": 5
+  }
+]
